@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Himanshu Maurya\'s Portfolio</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="himanshu_s">Himanshu\'s</string>
+    <string name="knowledge_base">Knowledge Base</string>
+    <string name="let_s_go">Let\'s go!</string>
+    <string name="call_me">Call Me</string>
+    <string name="e_mail">E-mail</string>
+    <string name="programming_languages">Programming Languages</string>
+    <string name="android_app_development">Android App Development</string>
+    <string name="web_development">Web\nDevelopment</string>
+    <string name="vcs">VCS</string>
+    <string name="artificial_intelligence_ai">Artificial Intelligence (AI)</string>
+    <string name="machine_learning_ml">Machine\nLearning (ML)</string>
+    <string name="database_db">Database (DB)</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="java">Java</string>
+    <string name="chatgpt">ChatGPT</string>
+    <string name="mysql_db">MySQL Db</string>
+    <string name="xampp_server">Xampp Server</string>
+    <string name="sqlite_db">SQLite Db</string>
+    <string name="opencv">OpenCV</string>
+    <string name="tensorflow">Tensorflow</string>
+    <string name="pandas">Pandas</string>
+    <string name="numpy">Numpy</string>
+    <string name="python">Python</string>
+    <string name="git">Git</string>
+    <string name="github">GitHub</string>
+    <string name="html">HTML</string>
+    <string name="css">CSS</string>
+    <string name="bootstrap">Bootstrap</string>
+    <string name="tailwind_css">Tailwind CSS</string>
+    <string name="flask_python">Flask | Python</string>
+    <string name="django_python">Django | Python</string>
+    <string name="react">React</string>
+</resources>
